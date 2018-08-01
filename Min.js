@@ -1,9 +1,14 @@
-pineapples = [];
+// pineapples = [];
+//
+// pineapples.push("black");
+// pineapples.push("orange");
+// pineapples.push("negro");
+// pineapples.push("red");
+//
+// console.log(pineapples);
 
-pineapples.push("black");
-pineapples.push("orange");
-pineapples.push("negro");
-pineapples.push("red");
+//number 2
 
-console.log(pineapples);
+balls = [1, 2, 3, 4, 5];
 
+console.log(balls);
